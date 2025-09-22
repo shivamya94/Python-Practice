@@ -28,7 +28,9 @@ My_List2 = My_List.clear()
 
 print(My_List2)
 
-#Write a Python program to access the index of an element present in a list.
+# Write a Python program to access the index of an element present in a list.
 
 Listt3 = [4,5,2,6,7,8,9,12]
+
+
 
